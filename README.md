@@ -143,11 +143,11 @@ Setiap senjata memiliki atribut seperti:
 ### Screenshot Program yang Dijalankan
 Beberapa screenshot dari program yang dijalankan (image di-upload sesuai folder-folder yang tersedia, di README tinggal ditampilkan).
 
-![Screenshot 1](Data%20Scraping/data/screenshot/1.png)  
-![Screenshot 2](Data%20Scraping/data/screenshot/2.png)  
-![Screenshot 3](Data%20Scraping/data/screenshot/3.png)  
-![Screenshot 4](Data%20Scraping/data/screenshot/4.png)  
-![Screenshot 5](Data%20Scraping/data/screenshot/5.png)
+![Screenshot 1](Data%20Storing/screenshot/1.png)  
+![Screenshot 2](Data%20Storing/screenshot/2.png)  
+![Screenshot 3](Data%20Storing/screenshot/3.png)  
+![Screenshot 4](Data%20Storing/screenshot/4.png)  
+![Screenshot 5](Data%20Storing/screenshot/5.png)
 
 ### Referensi
 #### Library yang Digunakan:
