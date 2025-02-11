@@ -128,9 +128,7 @@ Setiap senjata memiliki atribut seperti:
         - Penyisipan atribut akibat many-to-many relationship:
             - `Part_Of(set_id, echo_id)` → `Echo_Set(set_id)`, `Echo(echo_id)`
 
-4. **
-
-Hasil Pemetaan:**
+4. **Hasil Pemetaan:**
     - Berdasarkan hasil pemetaan entity, relationship, dan specialization menjadi relasi di atas, didapatkan relasi sebagai berikut:
         - `Character` = (char_id, char_name, char_rarity, element_id, best_echo_set_id, best_main_echo_id, detail_url)
         - `Char_Stats` = (char_id, hp, char_atk, def, max_energy, crit_rate, crit_dmg, healing_bonus, element_dmg)
@@ -145,11 +143,11 @@ Hasil Pemetaan:**
 ### Screenshot Program yang Dijalankan
 Beberapa screenshot dari program yang dijalankan (image di-upload sesuai folder-folder yang tersedia, di README tinggal ditampilkan).
 
-![Screenshot 1](Data Scraping/data/screenshot/1.png)
-![Screenshot 2](Data Scraping/data/screenshot/2.png)
-![Screenshot 3](Data Scraping/data/screenshot/3.png)
-![Screenshot 4](Data Scraping/data/screenshot/4.png)
-![Screenshot 5](Data Scraping/data/screenshot/5.png) 
+![Screenshot 1](Data%20Scraping/data/screenshot/1.png)  
+![Screenshot 2](Data%20Scraping/data/screenshot/2.png)  
+![Screenshot 3](Data%20Scraping/data/screenshot/3.png)  
+![Screenshot 4](Data%20Scraping/data/screenshot/4.png)  
+![Screenshot 5](Data%20Scraping/data/screenshot/5.png)
 
 ### Referensi
 #### Library yang Digunakan:
