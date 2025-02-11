@@ -1,6 +1,6 @@
-# Seleksi Tahap 2 Asisten Basis Data 2024
+# Wuthering Waves ETL Project
 
-## ETL Project
+## Extract, Transform, and Load
 
 ### Author
 **Nama:** Favian Izza Diasputra  
