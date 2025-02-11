@@ -12,7 +12,7 @@ Database Management System (DBMS) ini dibuat dari hasil web scraping data dari p
 ### Cara Menggunakan Scraper
 1. Clone repository ini di dalam direktorimu:
     ```sh
-    git clone https://github.com/IlllIllIIIlIlIll/TUGAS_SELEKSI_2_18222070.git
+    git clone https://github.com/IlllIllIIIlIlIll/Wuthering-Waves-ETL-Project.git
     ```
 
 2. Buka command prompt dan sesuaikan path sehingga berada pada repository tersebut.
